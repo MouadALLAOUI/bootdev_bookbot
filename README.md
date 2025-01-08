@@ -1,2 +1,3 @@
 # bootdev_bookbot
-bootdev-bookbot lessons
+
+BookBot is my first project!
